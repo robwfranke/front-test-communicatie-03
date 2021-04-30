@@ -1,0 +1,67 @@
+*{
+    width: 200px;
+}
+.error{
+    font-size: 10px;
+    background-color: red;
+    color: black;
+
+}
+
+.jwt{
+
+    padding: 20px;
+    background-color: red;
+    font-size: 10px;
+}
+
+.base{
+    padding: 20px;
+    background-color: orange;
+}
+
+
+.peter{
+    padding: 20px;
+    background-color: coral;
+    font-size: 10px;
+}
+
+
+.admin{
+    padding: 20px;
+    background-color: grey;
+}
+
+
+
+.allUsers{
+    padding: 20px;
+    font-size:10px;
+    background-color: pink;
+}
+
+
+.createUser{
+    padding: 20px;
+    background-color: green;
+}
+
+
+
+.createUserAuthorityRoleUse{
+    padding: 20px;
+    background-color: darkturquoise;
+}
+
+
+.changeUser{
+    padding: 20px;
+    background-color: magenta;
+}
+
+
+.deleteUser{
+    padding: 20px;
+    background-color: cornflowerblue;
+}
